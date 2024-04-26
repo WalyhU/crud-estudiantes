@@ -1,0 +1,1 @@
+insert into estudiantes (nombre, apellido, fecha_nacimiento, ciclo, carrera) values ('Juan', 'Perez', '2000-01-01', 5, 'Ingenieria en Sistemas');
